@@ -10,7 +10,8 @@ Problemas resueltos en lenguaje Python
 
 - [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
 
--Set:
+- Set
+	
 	- [Set.union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
 
 	- [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
